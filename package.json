@@ -1,0 +1,15 @@
+{
+  "name": "SocialBot",
+  "version": "1.0.0",
+  "description": "Nuvi Project",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Garrett Kirschbaum",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-connect": "^4.0.0"
+  }
+}
